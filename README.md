@@ -11,6 +11,7 @@ Method 2: Install via composer [Recommend]
 Run the following commands Magento root folder
 
 <code>composer config repositories.abzertech.smtp git git@github.com:indrisepos/magento2-smtp.git</code>
+
 <code>composer require abzertech/smtp</code>
 
 <code>php bin/magento setup:upgrade</code>
